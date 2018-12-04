@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\LhwCode\LhwCode\LhwCode\bin\x86\Debug\LhwCode.dll
+C:\Users\Administrator\Desktop\LhwCode\LhwCode\LhwCode\bin\x86\Debug\LhwCode.pdb
+C:\Users\Administrator\Desktop\LhwCode\LhwCode\LhwCode\obj\x86\Debug\LhwCode.dll
+C:\Users\Administrator\Desktop\LhwCode\LhwCode\LhwCode\obj\x86\Debug\LhwCode.pdb
+C:\Users\Administrator\Desktop\LhwCode\LhwCode\LhwCode\obj\x86\Debug\LhwCode.csprojResolveAssemblyReference.cache
